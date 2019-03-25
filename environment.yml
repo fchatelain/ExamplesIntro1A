@@ -1,0 +1,10 @@
+name: example-ML
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - graphviz
